@@ -20,7 +20,6 @@ I am an enthusiastic tech student and self-learner on a journey to build innovat
 #### 🚀 Programming Languages & Web
 - 🌐 **HTML5 & CSS3** — Core Web Layouts & Responsive Designs
 - 🟨 **JavaScript** — Dynamic Frontend Programming
-- 🐍 **Python** — Logic Building & Backend Basics
 - 📝 **WordPress** — Complete CMS & Website Management
 
 #### 🧰 Softwares, Graphics & Tools (CIT)
